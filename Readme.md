@@ -8,3 +8,6 @@ Gostou do curso?
 Nova modificação GITHUB
 
 TESTE
+
+Novo release 1.0.1
+
